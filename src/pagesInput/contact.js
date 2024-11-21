@@ -5,14 +5,14 @@ const inputData = {
     {
       icon: 'icon-envelope',
       header: 'Email',
-      text: 'dhanesh@gmail.com',
-      href: 'mailto:dhanesh@gmail.com?subject=Product enquiry',
+      text: 'dhanesh_co@yahoo.co.in',
+      href: 'mailto:dhanesh@yahoo.co.in?subject=Product enquiry',
     },
     {
       icon: 'icon-phone',
       header: 'Phone',
-      text: '022 - 99999999',
-      href: 'tel:022-99999999',
+      text: '022 - 2687 3598',
+      href: 'tel:022-26873598',
     },
     {
       icon: 'fas fa-map-marker-alt',
